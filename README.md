@@ -1,6 +1,8 @@
 # student-manager
 Lucram in proiectul asta !!
 
+JIRA:
+https://turismforfuturism.atlassian.net/jira/software/projects/TUR/boards/1/backlog
 
 # **Student Manager Application**
 
