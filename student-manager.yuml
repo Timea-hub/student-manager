@@ -1,7 +1,0 @@
-[Customer]-(Sign In)
-[Customer]-(Purchase Trip)
-(Purchase Trip)>(Browse Trips)
-(Purchase Trip)>(Checkout)
-(Checkout)<(Add New Credit Card)
-(Checkout)
-[Office Staff]-(Processs Order)
